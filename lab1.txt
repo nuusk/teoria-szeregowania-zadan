@@ -1,0 +1,12 @@
+Kazdy indywidualnie pisze pierwszy algorytm i bedziemy w grupie porownywac miedzy soba wyniki.
+Mozna stworzyc platforme do porownywania wynikow.
+
+PROBLEM: Szeregowanie zadan
+dla kazdego zadania mamy dwa parametry: 
+1) czas trwania (szacowany czas na realizacje zadania)
+2) dwie wagi (A-kara za wykonanie zadania za wczesnie, B-kara za wykonanie zadania za pozno)
+  - kara jaką zaplacimy jest proporcjonalna do czasu o jaki zrobiliśmy za wcześnie / za późno
+
+w naszym przyapdku mamy deadline równy pewnemu procentowi z długości wszystkich zadań
+
+http://www.cs.put.poznan.pl/msterna/index_pliki/Page322.htm
